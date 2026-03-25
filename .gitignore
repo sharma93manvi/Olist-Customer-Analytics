@@ -1,0 +1,6 @@
+.DS_Store
+*.rds
+.vscode/
+node_modules/
+olist-dashboard/node_modules/
+olist-dashboard/dist/

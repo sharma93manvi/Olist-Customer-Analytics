@@ -1,0 +1,3 @@
+buyer_type,Customers (count),Average review score (1 to 5),Median review score (1 to 5),Average installments (count),Average freight (BRL),Used credit card (%),Used boleto (%),Used voucher (%)
+One-time buyer,90548,4.15,5,2.9,22.78,77,19.95,3.72
+Repeat buyer,2801,4.2,4.67,3.3,22.89,82.04,23.13,7.85

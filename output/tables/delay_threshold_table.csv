@@ -1,0 +1,9 @@
+delay_band,Customers (count),Repeat rate (%),Average first-order delay (days),Average review score (1 to 5)
+Early by >14 days,40636,3.19,-19.51,4.32
+Early by 7 to 14 days,32995,3.11,-10.08,4.3
+Early by 3 to 7 days,9215,2.45,-4.82,4.19
+Early/on time by 0 to 3 days,4147,2.24,-1.06,4.11
+Late by 0 to 3 days,1822,2.47,1.83,3.3
+Late by 3 to 7 days,1750,2.46,5.51,2.1
+Late by 7 to 14 days,1440,2.57,10.62,1.69
+Late by >14 days,1345,2.75,29.24,1.74

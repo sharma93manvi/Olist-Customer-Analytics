@@ -1,0 +1,9 @@
+rank,term,estimate,odds_ratio,direction,p.value,significance
+1,used_boleto,4.5836,97.8625,Increases P(repeat),0,***
+2,used_credit_card,4.5017,90.1716,Increases P(repeat),0,***
+3,used_voucher,1.3372,3.8085,Increases P(repeat),0,***
+4,avg_installments,0.0254,1.0258,Increases P(repeat),0.006,**
+5,avg_review_score,0.0191,1.0193,Increases P(repeat),0.3321,
+6,avg_freight,-0.0114,0.9887,Decreases P(repeat),0,***
+7,first_delivery_delay_days,-0.0076,0.9924,Decreases P(repeat),0.0027,**
+8,monetary,0.0014,1.0014,Increases P(repeat),0,***
